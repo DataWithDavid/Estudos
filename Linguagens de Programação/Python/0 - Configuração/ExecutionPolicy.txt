@@ -1,0 +1,3 @@
+Get-ExecutionPolicy (Mostra as politicas de execução do PowerShell)
+
+Set-ExecutionPolicy AllSigned -Force (Politica de execução que te pergunta antes de executar um código através do PS)
